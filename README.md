@@ -1,6 +1,3 @@
-# yjq
-my pages
-
 #!/bin/bash
 #clean logs
 partitionnumber=864
